@@ -6,7 +6,10 @@
 
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
-
+ 
+    <label for="mothername"><b>MotherName</b></label>
+    <input type="text" placeholder="Enter Mother Name" name="mothername" id="mothername" required>
+   
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
